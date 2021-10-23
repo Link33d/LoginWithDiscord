@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <title>Template</title>
+</head>
+
+<body>
+    <h1>Discord oauth2 sample site!</h1>
+    <% if(user) { %> 
+        <p>hello <%=user.tag%>, welcome to my site!</p>
+        <p>Try our <a href="/dashboard">dashboard</a></p>
+        <p>to log out of your account, click here: <button onclick="window.location.href='/logout'">Logout!</button></p>
+    <% } else { %> 
+        <p>hello anonymous person, welcome to my site!</p>
+        <p>to log into your account, click here: <button onclick="window.location.href='/login'">Login!</button></p>
+    <% } %>
+</html>
