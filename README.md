@@ -41,16 +41,16 @@ I'm using the example template, it's your choice, but it needs to be the same on
 ## How do you do this
 ### client_id
 In the [Developer Portal](https://discord.com/developers) -> Your Application -> General Information
-![client id](https://media.discordapp.net/attachments/727335289072386109/901550534815776808/unknown.png)
+![client id](https://prnt.sc/2oJwrkMWVVp6)
 
 ### client_secret
 In the [Developer Portal](https://discord.com/developers) -> Your Application -> Oauth2
-![client secret](https://media.discordapp.net/attachments/727335289072386109/901550145634730014/unknown.png)
+![client secret](https://prnt.sc/fjfOqTGhLi6X)
 
 ### client_token
 In the [Developer Portal](https://discord.com/developers) -> Your Application -> Bot
-![client token](https://media.discordapp.net/attachments/727335289072386109/901550346789322762/unknown.png)
+![client token](https://prnt.sc/oh9VqFNV_WW5)
 
 ### redirect
 In the [Developer Portal](https://discord.com/developers) -> Your Application -> Oauth2 -> Add Another -> text box -> Save Changes
-![redirect](https://media.discordapp.net/attachments/727335289072386109/901549877715157002/unknown.png)
+![redirect](https://prnt.sc/sQCCe7fbjAQ_)
